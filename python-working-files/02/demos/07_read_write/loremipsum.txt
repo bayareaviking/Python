@@ -1,0 +1,7 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam neque massa, commodo nec metus ut, porta rutrum metus. 
+Mauris vitae aliquam justo. Donec vitae lectus vel urna sodales egestas vel id nisl. 
+Maecenas purus urna, rutrum sit amet enim eu, ornare convallis nibh.
+Nam ut felis nunc. Donec ac mollis ligula. Curabitur mollis dui eu metus dignissim finibus. 
+Cras pretium condimentum sem sit amet varius. Aliquam in massa quis neque porta luctus.
+Last lineThis is a new line in the file.
+Last line
